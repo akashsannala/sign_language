@@ -1,0 +1,5 @@
+make the 3d model change its configuration (animate the 3D model ) in the blender 
+
+
+link :  "https://youtu.be/vzJ7454X46g?si=L1kV7Wc7KKNZ4EV3"
+	"https://youtu.be/_zKnaVeSYhk?si=-4QFu4tUk-hbJAc2"

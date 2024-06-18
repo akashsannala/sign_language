@@ -1,0 +1,4 @@
+Speed: numpy.save and numpy.load are the fastest.
+Compression: numpy.savez_compressed and h5py offer good compression.
+Compatibility: HDF5 (h5py) is widely supported across different platforms and languages.
+Large Data Handling: h5py and zarr are specifically designed for handling large datasets efficiently.
